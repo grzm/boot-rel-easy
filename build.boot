@@ -10,7 +10,6 @@
 
 (def project 'com.grzm/boot-rel-easy.alpha)
 (def version (rel-easy/get-version))
-(def version "0.0.0-SNAPSHOT")
 
 (task-options!
  pom {:project     project
